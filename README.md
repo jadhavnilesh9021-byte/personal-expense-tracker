@@ -77,7 +77,7 @@ Exit
 ![Main Menu](screenshots/menu.png)
 
 **Viewing Expenses**
-![View Expenses](screenshots/view-expenses.png)
+![View Expenses](screenshots/view-expense.png)
 
 **Summary Report**
 ![Summary Report](screenshots/summary-report.png)
