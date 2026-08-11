@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Database (personal data, regenerated automatically)
+expenses.db
+
+# Generated output files
+expenses_export.csv
+category_chart.png
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
